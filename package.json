@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "Ryan Lee <ryan_lee@putnam.com>",
-  "description": "I have dwelt among the humans",
+  "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
