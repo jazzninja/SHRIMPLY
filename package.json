@@ -1,9 +1,9 @@
 {
-  "name": "shirmply pibbles",
+  "name": "shrimply-pibbles",
   "version": "0.0.0",
   "private": true,
   "author": "Ryan Lee <ryan_lee@putnam.com>",
-  "description": "here to do stuff",
+  "description": "I have dwelt among the humans",
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
@@ -17,7 +17,7 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^4.0.5"
+    "hubot-slack": "^4.1.0"
   },
   "engines": {
     "node": "0.10.x"
