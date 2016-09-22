@@ -3,12 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "author": "Ryan Lee <ryan_lee@putnam.com>",
-  "description": "I've dwelt among the humans. Their entire culture is built around their penises. It's funny to say they are small. It's funny to say they are big. I've been at parties where humans have held bottles, pencils, thermoses in front of themselves and called out, \"hey, look at me. I'm Mr. so-and-so-dick. I've got such-and-such for a pen1s.\" I never saw it fail to get a laugh.",
+  "description": "I've dwelt among the humans.",
   "dependencies": {
     "hubot": "^2.19.0",
-    "hubot-artsy": "^1.0.1",
-    "hubot-beer-me": "^0.1.2",
-    "hubot-book-list": "0.0.19",
     "hubot-diagnostics": "0.0.1",
     "hubot-dragonball": "^1.0.1",
     "hubot-google-images": "^0.2.6",
