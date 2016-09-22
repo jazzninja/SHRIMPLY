@@ -6,6 +6,7 @@
   "description": "I've dwelt among the humans.",
   "dependencies": {
     "hubot": "^2.19.0",
+    "hubot-book-search": "0.0.4",
     "hubot-diagnostics": "0.0.1",
     "hubot-dragonball": "^1.0.1",
     "hubot-google-images": "^0.2.6",
