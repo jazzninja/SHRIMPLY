@@ -16,6 +16,7 @@
     "hubot-help": "^0.2.0",
     "hubot-heroku-keepalive": "^1.0.2",
     "hubot-maps": "0.0.2",
+    "hubot-mitch-jokes": "^0.1.4",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
     "hubot-redmeat-comics": "0.0.1",
